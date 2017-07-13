@@ -5,7 +5,7 @@ The Spring Framework is an application framework and inversion of the control co
 
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter03.
 
 Chapters 1, 2, 4, 5, 11 does not have any code files.
 
