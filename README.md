@@ -18,24 +18,24 @@ The code will look like the following:
       }
     }
 ```
-
-JDK 1.8
-Spring Tool Suite 3.8.2 (STS)
-Maven 3.3.1
-Spring Framework 5.0.0.RC1
-Spring Boot 2.0.0. SNAPSHOT
-spring-boot-cli-2.0.0.SNAPSHOT-bin.zip
-Rabbit MQ 3.5.6
-FakeSMTP 2.0
-Spring Cloud Dalston RELEASE
-elasticsearch-1.5.2
-kibana-4.0.2-darwin-x64
-logstash-2.1.2
-Docker version (17.03.1-ce)
-Docker Hub
-Mesos version 1.2.0
-Docker version 17.03.1-ce
-Marathon version 3.4.9
+You will need the following tools for running the codes in the book:
+* JDK 1.8
+* Spring Tool Suite 3.8.2 (STS)
+* Maven 3.3.1
+* Spring Framework 5.0.0.RC1
+* Spring Boot 2.0.0. SNAPSHOT
+* spring-boot-cli-2.0.0.SNAPSHOT-bin.zip
+* Rabbit MQ 3.5.6
+* FakeSMTP 2.0
+* Spring Cloud Dalston RELEASE
+* elasticsearch-1.5.2
+* kibana-4.0.2-darwin-x64
+* logstash-2.1.2
+* Docker version (17.03.1-ce)
+* Docker Hub
+* Mesos version 1.2.0
+* Docker version 17.03.1-ce
+* Marathon version 3.4.9
 
 
 ## Related Products
